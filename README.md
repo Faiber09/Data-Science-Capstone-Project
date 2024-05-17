@@ -1,2 +1,2 @@
 # Python-Project-for-Data-Science
-Its a markdown file in this repository. Test
+Codigo de una tarea final. Extraer información básica de stock market y graficarla

@@ -117,3 +117,4 @@ if __name__ == '__main__':
 
 #esto es lo que se ejecuta en terminal
 # python3.11 spacex_dash_app.py
+# Author: Faiber Alonso Leal

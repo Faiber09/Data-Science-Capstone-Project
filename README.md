@@ -2,7 +2,7 @@
 
 
 ## Project scenario
-In this capstone, I take the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Mask. My job is to determine the price of each launch. I do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
+In this capstone project, I acted as a data scientist for a fictional aerospace company called Space Y, a competitor of SpaceX. My task was to determine the price of space launches by collecting public data using Web Scraping and SQL, and creating dashboards for my team. Additionally, I developed machine learning models to predict whether SpaceX would reuse the first stage of their rockets, comparing the accuracy and effectiveness of various algorithms. This project allowed me to apply advanced data science and machine learning techniques in a real-world context and prepare reports for stakeholders.
 
 ## Tools used
 SQL, Python, Sklearn, Folium Lab, Plotly, GitHub, Powerpoint
